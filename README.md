@@ -1,2 +1,2 @@
-# multiserver-with-load-balancer-prototype
-
+# multiserver-with-load-balancer
+Multiserver Architecture with Load Balancer using Java
